@@ -21,6 +21,6 @@ Additional Information
 
 | Supported patch:  | 3.3.5a                                                      |
 |-------------------|:------------------------------------------------------------|
-| Bugtracker:       | https://github.com/Stormforge-gg/Bugtracker-Wotlk/issues    |
+| Bugtracker:       | https://github.com/Stormforge-gg/Bugtracker-Wotlk-Beta/issues    |
 | Website:          | http://stormforge.gg/                                       |
 
